@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    position: absolute;
+    width: 1170px;
+    height: 679px;
+    left: 135px;
+    top: 1169px;
+    flex-direction: row;
+flex-wrap: wrap;
+}
+
+
