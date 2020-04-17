@@ -1,0 +1,53 @@
+html,
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+span,
+p,
+div,
+section {
+  margin: 0;
+  padding: 0;
+  font-family: Montserrat;
+}
+.directions {
+  background: #f6f6f6;
+}
+.directions-header {
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 46px;
+  color: #333333;
+  margin-bottom: 60px;
+  font-family: Montserrat;
+}
+.directions-text {
+  font-size: 16px;
+  line-height: 22px;
+  color: #333333;
+  margin-bottom: 32px;
+  width: 670px;
+  height: 155px;
+  font-family: Montserrat;
+  
+}
+.directions-button {
+  width: 337px;
+  height: 56px;
+}
+.directions-button__item {
+  border: 1px solid #b81f21;
+  box-sizing: border-box;
+  border-radius: 41px;
+  padding: 13px 32px;
+}
+.directions-button__item__text {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 180%;
+  color: #b81f21;
+  font-family: Montserrat;
+}
