@@ -1,0 +1,23 @@
+.catection-header {
+  font-weight: 600;
+  font-size: 44px;
+  line-height: 140%;
+  color: #b81f21;
+}
+.catection-text {
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 160%;
+}
+.catection-question {
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 140%;
+  color: #b81f21;
+}
+.catection-smallquestion {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 160%;
+  color: #b81f21;
+}
