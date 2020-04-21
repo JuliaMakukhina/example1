@@ -1,0 +1,57 @@
+.dog-image img {
+  width: 100%;
+  margin-bottom: 50px;
+}
+.dog-name {
+  font-weight: 600;
+  font-size: 44px;
+  line-height: 140%;
+  color: #b81f21;
+  margin-bottom: 16px;
+}
+.dog-data {
+  font-size: 16px;
+  line-height: 140%;
+  color: #787878;
+  margin-bottom: 32px;
+}
+.dog-views {
+  font-size: 16px;
+  line-height: 140%;
+  color: #787878;
+  margin-bottom: 32px;
+}
+.dog-text {
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 160%;
+  color: #000000;
+}
+.dog-social {
+  width: 10px;
+}
+.dog-block {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+.dog-block .dog-block__data {
+  display: flex;
+  flex-direction: row;
+}
+.dog-block .dog-block__views {
+  display: flex;
+  flex-direction: row;
+}
+.dog-block .dog-block__image {
+    width: 20px;
+    height: 20px;
+  margin-right: 12px;
+}
+.dog-block .dog-block__text {
+  font-size: 16px;
+  line-height: 140%;
+  color: #787878;
+}
+
