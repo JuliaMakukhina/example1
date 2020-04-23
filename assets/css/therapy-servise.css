@@ -1,0 +1,93 @@
+.therapy-servise-header {
+  font-weight: 600;
+  font-size: 44px;
+  line-height: 60px;
+  letter-spacing: 0.04em;
+  color: #b81f21;
+  margin-bottom: 48px;
+}
+.therapy-servise-link-general {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 30px;
+  color: #b81f21;
+}
+.therapy-servise-link-price {
+  font-size: 24px;
+  line-height: 30px;
+  color: #333333;
+}
+.therapy-servise-information-advise {
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 46px;
+  color: #333333;
+}
+.therapy-servise-button-down {
+  width: 370px;
+  height: 56px;
+}
+.therapy-servise-button-up__record {
+  border: 1px solid #b81f21;
+  background: #b81f21;
+  border-radius: 33px;
+  background: #b81f21;
+  padding: 17px 28px;
+  width: inherit;
+}
+.therapy-servise-button-down__view {
+  border: 1px solid #b81f21;
+  box-sizing: border-box;
+  border-radius: 41px;
+  padding: 13px 54px 11px 32px;
+  width: inherit;
+}
+.therapy-servise-button-up__record__text {
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+.therapy-servise-button-down__view__text {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 180%;
+  color: #b81f21;
+  background-color: white;
+}
+.therapy-servise-text-left,
+.therapy-servise-text-right {
+  font-size: 16px;
+  line-height: 22px;
+  color: #333333;
+}
+.therapy-servise-link {
+  margin-bottom: 72px;
+}
+.therapy-servise-information {
+ margin-bottom: 60px;
+ width: 1084px;
+}
+.therapy-servise-button-up__record {
+  margin-bottom: 20px;
+}
+.border-line-red {
+  border-bottom: 1px solid #B81F21;;
+  border-bottom-width: 4px;
+  width: 217px;
+  margin-top: 24px;
+}
+.container {
+  margin: 72px 135px 100px;
+}
+.therapy-servise-button-up {
+  width: 370px;
+  height: 56px;
+}
+
+.therapy-servise-buttons {
+  position: relative;
+}
+
