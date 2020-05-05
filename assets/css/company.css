@@ -1,0 +1,41 @@
+.container {
+  text-align: center;
+}
+.company-name {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+  color: #FFFFFF;
+  margin: 319px 0 20px;
+}
+.company-title {
+  font-weight: 800;
+  font-size: 48px;
+  line-height: 64px;
+  text-align: center;
+  width: 829px;
+  color: #FFFFFF;
+margin: 20px 546px 50px 545px;
+}
+.company-button__project__text {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+  color: #FFFFFF;
+}
+.company-button__project {
+  background: #4985FF;
+  border-radius: 30px;
+  padding: 13px 36px 15px 36px;
+  border-color: #4985FF;;
+}
+.company-button {
+  text-align: center;
+}
+.container {
+  background-image: url("/example1/assets/img/people.png");
+  width: 1920px;
+  height: 900px;
+}
